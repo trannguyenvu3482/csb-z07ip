@@ -1,0 +1,1 @@
+{"version":3,"sources":["responsive.css"],"names":[],"mappings":"AAAA,yBACE,kBACE,QACF,CACA,QACE,WACF,CACF","file":"responsive.7525ea45.css","sourceRoot":"..","sourcesContent":["@media (max-width: 768px) {\r\n  .avatar-container {\r\n    gap: 20px;\r\n  }\r\n  .avatar {\r\n    width: 100px;\r\n  }\r\n}\r\n"]}
